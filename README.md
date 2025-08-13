@@ -21,7 +21,7 @@ A modern, full-stack web application for managing coding club activities, meetin
 - **API**: RESTful API with CORS support
 - **Deployment**: Ready for production deployment
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 - Django 4.2+
